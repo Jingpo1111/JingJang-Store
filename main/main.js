@@ -62,10 +62,10 @@ const productData = [
             { name: 'White', value: 'White', colorCode: '#f9f9f9', border: true }
         ],
         images: [
-            '/img/mouse-aceromr228/1.jpg',
-            '/img/mouse-aceromr228/2.jpg',
-            '/img/mouse-aceromr228/3.jpg',
-            '/img/mouse-aceromr228/4.jpg'
+            'img/Mouse-aceromr228/1.jpg',
+            'img/Mouse-aceromr228/2.jpg',
+            'img/Mouse-aceromr228/3.jpg',
+            'img/Mouse-aceromr228/4.jpg'
         ]
     },
     {
@@ -84,9 +84,9 @@ const productData = [
             { name: 'White', value: 'White', colorCode: '#f9f9f9', border: true }
         ],
         images: [
-            'img/mouse aceromw030/1.jpg',
-            'img/mouse aceromw030/2.jpg',
-            'img/mouse aceromw030/3.jpg'
+            'img/Mouse aceromw030/1.jpg',
+            'img/Mouse aceromw030/2.jpg',
+            'img/Mouse aceromw030/3.jpg'
         ]
     },
     {
@@ -105,10 +105,10 @@ const productData = [
             { name: 'White', value: 'White', colorCode: '#f9f9f9', border: true }
         ],
         images: [
-            'img/mouse aceromw950 wired/1.jpg',
-            'img/mouse aceromw950 wired/2.jpg',
-            'img/mouse aceromw950 wired/3.jpg',
-            'img/mouse aceromw950 wired/4.jpg'
+            'img/Mouse aceromw950 wired/1.jpg',
+            'img/Mouse aceromw950 wired/2.jpg',
+            'img/Mouse aceromw950 wired/3.jpg',
+            'img/Mouse aceromw950 wired/4.jpg'
         ]
     },
     {
@@ -127,11 +127,11 @@ const productData = [
             { name: 'White', value: 'White', colorCode: '#f9f9f9', border: true }
         ],
         images: [
-            'img/fmouse m500se/1.png',
-            'img/fmouse m500se/2.jpg',
-            'img/fmouse m500se/3.jpg',
-            'img/fmouse m500se/4.jpg',
-            'img/fmouse m500se/5.jpg'
+            'img/Fmouse M500se/1.png',
+            'img/Fmouse M500se/2.jpg',
+            'img/Fmouse M500se/3.jpg',
+            'img/Fmouse M500se/4.jpg',
+            'img/Fmouse M500se/5.jpg'
         ]
     },
     {
@@ -153,11 +153,11 @@ const productData = [
             { name: 'White', value: 'White', colorCode: '#f9f9f9', border: true }
         ],
         images: [
-            'img/fmouse m233/1.jpg',
-            'img/fmouse m233/2.jpg',
-            'img/fmouse m233/3.jpg',
-            'img/fmouse m233/4.jpg',
-            'img/fmouse m233/5.jpg'
+            'img/Fmouse-m233/1.jpg',
+            'img/Fmouse-m233/2.jpg',
+            'img/Fmouse-m233/3.jpg',
+            'img/Fmouse-m233/4.jpg',
+            'img/Fmouse-m233/5.jpg'
         ]
     },
     {
@@ -224,11 +224,11 @@ const productData = [
             { name: 'White', value: 'White', colorCode: '#f9f9f9', border: true }
         ],
         images: [
-            'img/gamesir tegeniria/1.jpg',
-            'img/gamesir tegeniria/2.jpg',
-            'img/gamesir tegeniria/3.jpg',
-            'img/gamesir tegeniria/4.jpg',
-            'img/gamesir tegeniria/5.jpg'
+            'img/Gamesir Tegeniria/1.jpg',
+            'img/Gamesir Tegeniria/2.jpg',
+            'img/Gamesir Tegeniria/3.jpg',
+            'img/Gamesir Tegeniria/4.jpg',
+            'img/Gamesir Tegeniria/5.jpg'
         ]
     },
     {
@@ -247,11 +247,11 @@ const productData = [
             { name: 'White', value: 'White', colorCode: '#f9f9f9', border: true }
         ],
         images: [
-            'img/gamesir nova2life/1.jpg',
-            'img/gamesir nova2life/2.jpg',
-            'img/gamesir nova2life/3.jpg',
-            'img/gamesir nova2life/4.jpg',
-            'img/gamesir nova2life/5.jpg'
+            'img/Gamesir nova2life/1.jpg',
+            'img/Gamesir nova2life/2.jpg',
+            'img/Gamesir nova2life/3.jpg',
+            'img/Gamesir nova2life/4.jpg',
+            'img/Gamesir nova2life/5.jpg'
         ]
     },
     {
