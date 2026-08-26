@@ -14,5 +14,6 @@
             "username": "root",
             "name": "ecommerce"
         }
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
