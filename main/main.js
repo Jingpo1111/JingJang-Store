@@ -62,10 +62,10 @@ const productData = [
             { name: 'White', value: 'White', colorCode: '#f9f9f9', border: true }
         ],
         images: [
-            'img/mouse aceromr228/1.jpg',
-            'img/mouse aceromr228/2.jpg',
-            'img/mouse aceromr228/3.jpg',
-            'img/mouse aceromr228/4.jpg'
+            '/img/mouse aceromr228/1.jpg',
+            '/img/mouse aceromr228/2.jpg',
+            '/img/mouse aceromr228/3.jpg',
+            '/img/mouse aceromr228/4.jpg'
         ]
     },
     {
@@ -399,7 +399,7 @@ let currentFilter = 'ALL';
 
 function filterProducts(type) {
     currentFilter = type;
-    
+
     // Update active class on filter buttons
     const buttons = document.querySelectorAll('.filter-btn');
     buttons.forEach(btn => {
@@ -418,8 +418,8 @@ function renderProducts() {
     const grid = document.querySelector('.product-grid');
     if (!grid) return;
 
-    const filteredData = currentFilter === 'ALL' 
-        ? productData 
+    const filteredData = currentFilter === 'ALL'
+        ? productData
         : productData.filter(p => p.type === currentFilter);
 
     grid.innerHTML = filteredData.map(product => {
