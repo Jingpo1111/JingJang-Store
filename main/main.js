@@ -62,10 +62,10 @@ const productData = [
             { name: 'White', value: 'White', colorCode: '#f9f9f9', border: true }
         ],
         images: [
-            '/img/mouse aceromr228/1.jpg',
-            '/img/mouse aceromr228/2.jpg',
-            '/img/mouse aceromr228/3.jpg',
-            '/img/mouse aceromr228/4.jpg'
+            '/img/mouse-aceromr228/1.jpg',
+            '/img/mouse-aceromr228/2.jpg',
+            '/img/mouse-aceromr228/3.jpg',
+            '/img/mouse-aceromr228/4.jpg'
         ]
     },
     {
